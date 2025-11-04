@@ -79,6 +79,19 @@ The workflow automates:
 | 🔹 Workflow Engine | Flow Designer / Workflow Editor |
 
 ---
+---
+
+## 👥 Team Members
+
+| Role | Name | Register Number |
+|------|------|-----------------|
+| 👩‍💼 **Team Leader** | **Jai Akash R** | 815422104021 |
+| 👨‍💻 **Team Member** | Sivapragasam G | 815422104053 |
+| 👨‍💻 **Team Member** | Kabilan K | 815422104025 |
+| 👨‍💻 **Team Member** | Pranav Nathan M B | 815422104034 |
+| 👨‍💻 **Team Member** | Vignesh V S | 815422104060 |
+
+---
 
 ## 🚀 Expected Outcome
 
