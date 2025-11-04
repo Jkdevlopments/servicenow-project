@@ -1,5 +1,4 @@
-<p align="center">
-  <a href="https://drive.google.com/file/d/1QIb8xGTuVYTYbagh-uO1U4oK_YKnXe6e/view">
-    <img src="https://placehold.jp/24/0078d7/ffffff/800x450.png?text=▶%20Click%20to%20Watch%20ServiceNow%20Demo" width="75%" alt="ServiceNow Demo Video">
-  </a>
-</p>
+
+## 🎥 Watch the ServiceNow Demo
+
+[![ServiceNow Demo](https://github.com/Jkdevlopments/Jkdevlopments/assets/150748992/ab6b4c19-ec49-4e85-9b8a-2fa94f76dbd8)](https://drive.google.com/file/d/1QIb8xGTuVYTYbagh-uO1U4oK_YKnXe6e/view)
