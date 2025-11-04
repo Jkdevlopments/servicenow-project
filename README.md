@@ -1,5 +1,20 @@
 <h1 align="center" style="color:#0078D7;">🔐 Optimizing User, Group, and Role Management with Access Control and Workflows </h1>
 
+## 🎥 Watch the Demo
+
+## 🎥 Watch the ServiceNow Demo
+<center>
+
+[![Play Video](https://placehold.co/800x450/0078D7/ffffff?text=▶%20Watch%20ServiceNow%20Demo)](https://drive.google.com/file/d/1QIb8xGTuVYTYbagh-uO1U4oK_YKnXe6e/view)
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1QIb8xGTuVYTYbagh-uO1U4oK_YKnXe6e/view" target="_blank">
+    🔹 <b>Click to Watch the Demo Video</b>
+  </a>
+</p>
+</center>
+---
+
 <p align="center">
   <b>📂 Category:</b> <span style="color:#0A84FF;">ServiceNow System Administrator</span>  
   <br>
@@ -74,20 +89,6 @@ The workflow automates:
 
 ---
 
-## 🎥 Watch the Demo
-
-## 🎥 Watch the ServiceNow Demo
-<center>
-
-[![Play Video](https://placehold.co/800x450/0078D7/ffffff?text=▶%20Watch%20ServiceNow%20Demo)](https://drive.google.com/file/d/1QIb8xGTuVYTYbagh-uO1U4oK_YKnXe6e/view)
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1QIb8xGTuVYTYbagh-uO1U4oK_YKnXe6e/view" target="_blank">
-    🔹 <b>Click to Watch the Demo Video</b>
-  </a>
-</p>
-</center>
----
 
 ## ✨ Author
 
