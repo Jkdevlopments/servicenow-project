@@ -76,13 +76,15 @@ The workflow automates:
 
 ## 🎥 Watch the Demo
 
+## 🎥 Watch the ServiceNow Demo
+
+[![Play Video](https://placehold.co/800x450/0078D7/ffffff?text=▶%20Watch%20ServiceNow%20Demo)](https://drive.google.com/file/d/1QIb8xGTuVYTYbagh-uO1U4oK_YKnXe6e/view)
+
 <p align="center">
   <a href="https://drive.google.com/file/d/1QIb8xGTuVYTYbagh-uO1U4oK_YKnXe6e/view" target="_blank">
-    <img src="https://placehold.co/800x450/0078D7/ffffff?text=▶%20Click%20to%20Watch%20ServiceNow%20Demo" 
-         alt="Watch ServiceNow Demo Video" width="80%">
+    🔹 <b>Click to Watch the Demo Video</b>
   </a>
 </p>
-
 ---
 
 ## ✨ Author
